@@ -18,19 +18,19 @@
   <br>
   <!--ICONS DE LINGUAGENS-->
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
 
   <!--ICONS DE FERRAMENTAS-->
-  <br><img align="center" alt="FastAPI" width="30" height="30" src="https://www.jetbrains.com/guide/assets/fastapi-6837327b.svg">
-  <img align="center" alt="LangChain" width="55" height="30" src="https://i.imgur.com/v8gwlGr.png">
-  <img align="center" alt="Windows" width="30" height="30" src="https://www.svgrepo.com/show/52775/windows.svg">
+  <br><img align="center" alt="Windows" width="30" height="30" src="https://www.svgrepo.com/show/52775/windows.svg">
   <img align="center" alt="Linux" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-  <img align="center" alt="Git" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png">
+  <img align="center" alt="VSCode" width="27" height="27" src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source">
+  <img align="center" alt="FastAPI" width="30" height="30" src="https://www.jetbrains.com/guide/assets/fastapi-6837327b.svg">
+  <img align="center" alt="LangChain" width="55" height="30" src="https://i.imgur.com/v8gwlGr.png">
   <img align="center" alt="Figma" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-  <img align="center" alt="VSCode" width="27" height="27" src="https://camo.githubusercontent.com/d6c6032f936cfeeaf9da9c59c355760c466d1edba9f957063235d278fa986673/68747470733a2f2f636f64652e76697375616c73747564696f2e636f6d2f6173736574732f757064617465732f315f33352f6c6f676f2d737461626c652e706e67">
+  <img align="center" alt="Git" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png">
   
  
 </div>
@@ -38,9 +38,9 @@
 <br>
 <!--ICONS DE REDE SOCIAL E OS LINKS-->
 <div align="center"> 
-  <a href = "mailto:espindolaemmanuelle@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emmanuelle-espindola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@eternal.spring/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><p></p>
+  <a href="https://discord.com/channels/@eternal.spring/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href = "mailto:espindolaemmanuelle@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a><p></p>
   <br>
   <hr>
 
