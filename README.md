@@ -28,6 +28,7 @@
   <img align="center" alt="Linux" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
   <img align="center" alt="VSCode" width="27" height="27" src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source">
   <img align="center" alt="React Native" width="30" height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+  <img align="center" alt="Node.js" width="32" height="32" src="https://plugins.jetbrains.com/files/6098/605389/icon/pluginIcon.svg">
   <img align="center" alt="FastAPI" width="30" height="30" src="https://www.jetbrains.com/guide/assets/fastapi-6837327b.svg">
   <img align="center" alt="LangChain" width="55" height="30" src="https://i.imgur.com/v8gwlGr.png">
   <img align="center" alt="Figma" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
