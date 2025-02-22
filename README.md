@@ -14,7 +14,7 @@
 <div align="center"> 
   <h1> Emmanuelle Espindola </h1>
   <br>
-  <p>Systems analysis and development student<br>Learning Python, FastAPI and LangChain<br>Digital Products Intern at Vivo (Telefónica BR)</p>
+  <p>Graduated in Systems Analysis and Development<br>Learning Python, FastAPI, JavaScript & React Native<br>Focus on digital channels, UX, and data-driven strategies</p>
   <br>
   <!--ICONS DE LINGUAGENS-->
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
