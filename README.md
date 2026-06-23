@@ -12,18 +12,23 @@
 
 
 <div align="center"> 
-  <h1> Emmanuelle Espindola </h1>
+  <h1> Hi there! </h1>
   <br>
-  <p>Graduated in Systems Analysis and Development<br>Learning JavaScript, React Native and Python</p>
+  <p>I'm a Systems Analyst passionate about software development and digital products.</p>
+  <p>
+   Currently working with:<br>
+   Python, Java Script e React.
+  </p>
+  <p>Always learning and building new things.</p>
   <br>
   <!--ICONS DE LINGUAGENS-->
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
   <!--ICONS DE FERRAMENTAS-->
-  <br><img align="center" alt="React Native" width="30" height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png">
+  <br><img align="center" alt="React" width="30" height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png">
   <img align="center" alt="Node.js" width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174935.png?f=webp">
   <img align="center" alt="Git" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png">
   
