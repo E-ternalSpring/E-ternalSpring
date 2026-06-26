@@ -17,7 +17,7 @@
   <p>I'm a Systems Analyst passionate about software development and digital products.</p>
   <p>
    Currently working with:<br>
-   Python, Java Script e React.
+   Python, Java Script and React.
   </p>
   <p>Always learning and building new things.</p>
   <br>
