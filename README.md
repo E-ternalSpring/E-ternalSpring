@@ -54,5 +54,3 @@
 <hr>
 <!--BORDER-->
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9869D&height=120&section=footer"/>
-
-</div>
